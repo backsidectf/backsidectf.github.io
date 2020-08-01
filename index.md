@@ -2,6 +2,6 @@
 layout: default
 ---
 
-#Welwome !
+#Welcome !
 
 Our blog is currently under maintenance. Please come back later !
